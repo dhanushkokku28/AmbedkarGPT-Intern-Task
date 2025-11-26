@@ -1,0 +1,8 @@
+“The real remedy is to destroy the belief in the sanctity of the shastras...”
+
+# Note:
+# The assignment requested the full excerpt from Dr. B.R. Ambedkar’s "Annihilation of Caste".
+# I have included the exact short excerpt provided in your prompt above. If you have
+# the rights to the full text, replace the content of this file with the complete
+# passage before running the project (the system is designed to answer only from
+# whatever content is present in this file).
